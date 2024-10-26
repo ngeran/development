@@ -1,7 +1,15 @@
+<<<<<<< HEAD
 /* blog-hugo/themes/henry/assets/css/input.css */
+=======
+/* blog-hugo/themes/webvector/assets/css/input.css */
+>>>>>>> d54e5f3 (initial commit)
 
 @import "fonts.css"; /* or other custom css you want */
 
 @tailwind base;
 @tailwind components;
+<<<<<<< HEAD
 @tailwind utilities;
+=======
+@tailwind utilities;
+>>>>>>> d54e5f3 (initial commit)
