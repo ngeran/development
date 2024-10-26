@@ -1,0 +1,4 @@
+baseURL = 'https://webvector.com'
+languageCode = 'en-us'
+title = 'Webvector Theme Development'
+theme = 'webvector'

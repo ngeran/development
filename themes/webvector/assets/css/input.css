@@ -1,0 +1,7 @@
+/* blog-hugo/themes/henry/assets/css/input.css */
+
+@import "fonts.css"; /* or other custom css you want */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
